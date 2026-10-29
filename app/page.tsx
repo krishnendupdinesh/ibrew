@@ -57,7 +57,7 @@ const categories: Record<CategoryKey, Category> = {
     image: "images/categories/perfumes.png",
   },
   beds: {
-    label: "Imported beds",
+    label: "Imported mattress",
     tagline: "Sleep in luxury",
     dark: "#34517A",
     light: "#E0E9F5",
